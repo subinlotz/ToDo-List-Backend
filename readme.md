@@ -36,7 +36,7 @@ Replace `<your-mongodb-connection-string>` with your actual MongoDB URI.
 
 ### 4. Run the Server
 ```sh
-npm run dev
+npm start
 ```
 The server will run on `http://localhost:3000`
 
